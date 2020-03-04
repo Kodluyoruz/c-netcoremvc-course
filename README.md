@@ -1,4 +1,4 @@
-# İstanbul-C-.NET-Core-ile-MVC-Bootcamp
+# İstanbul C# ve .NET Core ile MVC Bootcamp
 
 # 1. Giriş – Temel Bilgiler
   1. .NET ve .NET CORE nedir? Temel farklar

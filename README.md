@@ -69,4 +69,4 @@
 ## 13. Uygulamaların Dağıtılması
   * AWS veya Azure
 
-### Not: Javascript ve bootstrap ile ilgili detayları örnekler projeler üzerinde kullanarak ilerleyeceğiz.
+** Not: Javascript ve bootstrap ile ilgili detayları örnekler projeler üzerinde kullanarak ilerleyeceğiz.

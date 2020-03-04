@@ -35,7 +35,7 @@ Burada eğitim süresince derslerde işlenecek konu başlıklarını bulabilirsi
   * Layout kullanımı
   * Partial View kullanımı
   * Sectionlar ile çalışma
-  * View'a data taşıma(ViewBag, ViewData, TempData)
+  * View'a data taşıma (ViewBag, ViewData, TempData)
   * Helpers
     * HTML Helper
     * Web Helper

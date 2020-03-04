@@ -14,7 +14,7 @@ Programın amacı,
 ---
 
 
-# Eğitim İçeriği
+## Eğitim İçeriği
 
 ## 1. Giriş – Temel Bilgiler
   * .NET ve .NET CORE nedir? Temel farklar

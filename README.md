@@ -1,7 +1,8 @@
 # İstanbul C# .NET Core ile MVC Bootcamp
 
 #### Programa Genel Bakış
-Programın amacı, 
+
+Programın amacı, Temel .NET Core bilgisini vermek ve uygulamalarını göstermektir. .NET Core dünyasıyla ilk kez tanışacaklar için hem dilin temel kavramları hem de uygulamaya yönelik kod örnekleriyle birlikte bir anlatım esas alınmıştır. Bootcamp her hafta sonu 10.00 - 16.00 saatleri arasında 6 hafta boyunca devam edecektir.
 
 ---
 

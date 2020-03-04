@@ -1,7 +1,7 @@
 # İstanbul C# ve .NET Core ile MVC Bootcamp
 
 # 1. Giriş – Temel Bilgiler
-  1. .NET ve .NET CORE nedir? Temel farklar
+  ## .NET ve .NET CORE nedir? Temel farklar
   2. .NET CORE SDK Kurulumu
   3. MVC Nedir?
     1. Model-View-Controller Kavramları

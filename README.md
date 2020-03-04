@@ -1,6 +1,6 @@
 # İstanbul C# ve .NET Core ile MVC Bootcamp
 
-# 1. Giriş – Temel Bilgiler
+## 1. Giriş – Temel Bilgiler
   * .NET ve .NET CORE nedir? Temel farklar
   * .NET CORE SDK Kurulumu
   * MVC Nedir?
@@ -8,11 +8,11 @@
     ** MVC Çalışma Prensibi
     ** .NET CORE MVC Folder Structure
   * İlk Uygulama &quot;Hello World!&quot;
-# 2. .NET CORE MVC ile Yazılım Geliştirmeye Giriş
+## 2. .NET CORE MVC ile Yazılım Geliştirmeye Giriş
   * Model-View-Controller Temelleri
   * Razor View Engine
   * Dependency Injection
-# 3. Viewlar ile çalışma
+## 3. Viewlar ile çalışma
   * View kullanımı
   * Layout kullanımı
   * Partial View kullanımı
@@ -21,52 +21,52 @@
   * Helpers
     ** HTML Helper
     ** Web Helper
-# 4. Modeller ile çalışma
+## 4. Modeller ile çalışma
   * Attributes Kullanımı
   * Model Validation
   * Model Binding
-# 5. Controller
+## 5. Controller
   * Action Kavramı
   * ActionResult Kavramı ve Çeşitli kullanımları
   * Action Attributes
   * Ajax Post ile controller ile etkileşim
   * Asenkron İşlemler
-# 6. Durum Yönetimi
+## 6. Durum Yönetimi
   * Session
   * Cookie
-# 7. MVC Routing İşlemleri
+## 7. MVC Routing İşlemleri
   * Routing Nedir?
   * MVC Varsayılan Routing Yapılandırması
   * Route Constraint kullanımı
-# 8. ORM Kavramı ve Veritabanı İşlemleri (EF CORE)
+## 8. ORM Kavramı ve Veritabanı İşlemleri (EF CORE)
   * ORM Nedir?
   * EF CORE database yaklaşımları ve ilgili kavramlar
   * CRUD işlemleri ve Lambda Expression kullanımları
-# 9. Filters
+## 9. Filters
   * Action Filter
   * Result Filter
   * Exception Filter
   * Authorize Filter
-# 10. Güvenlik ve Kimlik denetiminin aktifleştirilmesi
+## 10. Güvenlik ve Kimlik denetiminin aktifleştirilmesi
   * Sosyal medya hesabı ile giriş
   * Controller sınıfı metodlarında kimlik kısıtlama
   * Veri sahipliği ile kullanıcıları kısıtlama
   * Servis sınıflarında kimlik denetiminin sağlanması
   * Rol tabanlı yetkilendirme, kısıtlama
-# 11. Web Servisler (WebApi)
+## 11. Web Servisler (WebApi)
   * Web Servis nedir, nasıl haberleşir?
   * WebApi Folder Structure
   * Swagger kurulumu
   * Postman kullanımı
   * HTTP yöntemlerinin kullanılması
   * WebApi Routing
-# 12. Application Tests
+## 12. Application Tests
   * Uygulama testleri ne işe yarar, ne gibi çeşitleri vardır?
   * Temel test yöntemleri
     ** Unit Test
     ** Integration Test
   * Mock kavramı nedir, test projelerimizde nasıl kullanırız?
-# 13. Uygulamaların Dağıtılması
+## 13. Uygulamaların Dağıtılması
   * AWS veya Azure
 
 ### Not: Javascript ve bootstrap ile ilgili detayları örnekler projeler üzerinde kullanarak ilerleyeceğiz.

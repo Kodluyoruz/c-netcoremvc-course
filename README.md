@@ -4,9 +4,9 @@
   * .NET ve .NET CORE nedir? Temel farklar
   * .NET CORE SDK Kurulumu
   * MVC Nedir?
-    ** Model-View-Controller Kavramları
-    ** MVC Çalışma Prensibi
-    ** .NET CORE MVC Folder Structure
+    * Model-View-Controller Kavramları
+    * MVC Çalışma Prensibi
+    * .NET CORE MVC Folder Structure
   * İlk Uygulama &quot;Hello World!&quot;
 ## 2. .NET CORE MVC ile Yazılım Geliştirmeye Giriş
   * Model-View-Controller Temelleri

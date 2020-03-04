@@ -16,6 +16,8 @@ Programın amacı,
 
 ## Eğitim İçeriği
 
+Burada eğitim süresince derslerde işlenecek konu başlıklarını bulabilirsiniz.
+
 ## 1. Giriş – Temel Bilgiler
   * .NET ve .NET CORE nedir? Temel farklar
   * .NET CORE SDK Kurulumu

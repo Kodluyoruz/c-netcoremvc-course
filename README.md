@@ -1,4 +1,20 @@
-# İstanbul C# ve .NET Core ile MVC Bootcamp
+# İstanbul C# .NET Core ile MVC Bootcamp
+
+#### Programa Genel Bakış
+Programın amacı, 
+
+---
+
+### [Hazel Çaklı]
+
+#### Hepsiburada, Yazılım Geliştirici
+
+> Gazi Üniversitesi Bilgisayar Sistemleri Öğretmenliği mezunu. Yazılıma olan ilgisi lise yıllarına uzanmakta. Profesyonel anlamda 2016'da Telekom sektöründe Türknet'te kariyerine başladı. Ericsson R&D'de telekom projelerinde ilerledikten sonra, FinTech alanında çalıştı. Ağırlıklı olarak backend uygulamalar ile ilgilendi, şu an Hepsiburada'da Yazılım Geliştirici olarak çalışıyor.
+
+---
+
+
+# Eğitim İçeriği
 
 ## 1. Giriş – Temel Bilgiler
   * .NET ve .NET CORE nedir? Temel farklar

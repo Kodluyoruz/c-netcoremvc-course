@@ -19,8 +19,8 @@
   * Sectionlar ile çalışma
   * View'a data taşıma(ViewBag, ViewData, TempData)
   * Helpers
-    ** HTML Helper
-    ** Web Helper
+    * HTML Helper
+    * Web Helper
 ## 4. Modeller ile çalışma
   * Attributes Kullanımı
   * Model Validation
@@ -63,8 +63,8 @@
 ## 12. Application Tests
   * Uygulama testleri ne işe yarar, ne gibi çeşitleri vardır?
   * Temel test yöntemleri
-    ** Unit Test
-    ** Integration Test
+    * Unit Test
+    * Integration Test
   * Mock kavramı nedir, test projelerimizde nasıl kullanırız?
 ## 13. Uygulamaların Dağıtılması
   * AWS veya Azure

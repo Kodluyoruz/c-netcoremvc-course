@@ -2,7 +2,7 @@
 
 #### Programa Genel Bakış
 
-Programın amacı, temel .NET Core bilgisini vermek ve uygulamalarını göstermektir. .NET Core dünyasıyla ilk kez tanışacaklar için hem dilin temel kavramları hem de uygulamaya yönelik kod örnekleriyle birlikte bir anlatım esas alınmıştır. Bootcamp her hafta sonu 10.00 - 16.00 saatleri arasında 6 hafta boyunca devam edecektir.
+Programın amacı, temel C# bilgisi olan öğrencilere C# ve .NET Core ile web uygulamaları geliştirme konusunda yetkinlik kazandırılması planlanmaktadır. Botocamp kapsamında .NET Core MVC Framework ve C# ile uygulama arayüzlerinin oluşturulması, backend işlemlerinin yapılması, database işlemleri, farklı uygulamalar ile haberleşme, API ve Unit test yazımı gibi yetkinliklerinin katılımcalara kazandırılması hedeflenmektedir.
 
 ---
 

@@ -2,7 +2,7 @@
 
 #### Programa Genel Bakış
 
-Programın amacı, temel C# bilgisi olan öğrencilere C# ve .NET Core ile web uygulamaları geliştirme konusunda yetkinlik kazandırılması planlanmaktadır. Botocamp kapsamında .NET Core MVC Framework ve C# ile uygulama arayüzlerinin oluşturulması, backend işlemlerinin yapılması, database işlemleri, farklı uygulamalar ile haberleşme, API ve Unit test yazımı gibi yetkinliklerinin katılımcalara kazandırılması hedeflenmektedir.
+Programın amacı, temel C# bilgisi olan öğrencilere C# ve .NET Core ile web uygulamaları geliştirme konusunda yetkinlik kazandırılması planlanmaktadır. Bootcamp kapsamında .NET Core MVC Framework ve C# ile uygulama arayüzlerinin oluşturulması, backend işlemlerinin yapılması, database işlemleri, farklı uygulamalar ile haberleşme, API ve Unit test yazımı gibi yetkinliklerinin katılımcalara kazandırılması hedeflenmektedir.
 
 ---
 

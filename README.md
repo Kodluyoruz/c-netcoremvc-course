@@ -94,6 +94,6 @@ Burada eğitim süresince derslerde işlenecek konu başlıklarını bulabilirsi
 
 Öğrencilerimiz tarafından dikkat edilmesi gereken kurallar bütünü: [Code Of Conduct](https://github.com/Kodluyoruz/Code-Of-Conduct)
  
-Bootcamp esnasında kullanılan Github Classroom: [XXX](#https://classroom.github.com/a/4XpjnGQI)
+Bootcamp esnasında kullanılan Github Classroom: [XXX](https://classroom.github.com/a/4XpjnGQI)
 
 

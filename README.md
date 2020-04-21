@@ -89,3 +89,11 @@ Burada eğitim süresince derslerde işlenecek konu başlıklarını bulabilirsi
   * AWS veya Azure
 
 ** Not: Javascript ve bootstrap ile ilgili detayları örnekler projeler üzerinde kullanarak ilerleyeceğiz.
+
+### Bilinmesi Gerekenler:
+
+Öğrencilerimiz tarafından dikkat edilmesi gereken kurallar bütünü: [Code Of Conduct](https://github.com/Kodluyoruz/Code-Of-Conduct)
+ 
+Bootcamp esnasında kullanılan Github Classroom: [XXX](#https://classroom.github.com/a/4XpjnGQI)
+
+
